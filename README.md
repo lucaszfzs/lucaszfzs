@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atualmente, moro e estudo em **Belo Horizonte**. Estou cursando **Ciência da Computação**, no **6º período**, pela **Universidade FUMEC**. Sou apaixonado por **tecnologia e inovação** desde sempre, e busco constantemente aprender coisas novas, desenvolver minhas habilidades e transformar conhecimento em projetos práticos. Tenho interesse em áreas como **desenvolvimento de software, banco de dados e desenvolvimento web**, e estou em busca de crescimento profissional por meio de experiências que me desafiem e contribuam para minha evolução na área de TI.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
