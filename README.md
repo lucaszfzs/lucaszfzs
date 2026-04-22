@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Lucas Ferreira
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Ciência da Computação`**
 
 Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atualmente, moro e estudo em **Belo Horizonte**. Estou cursando **Ciência da Computação**, no **6º período**, pela **Universidade FUMEC**. Sou apaixonado por **tecnologia e inovação**, e busco constantemente aprender coisas novas, desenvolver minhas habilidades e transformar conhecimento em **projetos práticos**. Utilizo meus estudos e projetos como forma de fortalecer minha **base técnica** e construir uma trajetória sólida na área de **tecnologia**.
 
