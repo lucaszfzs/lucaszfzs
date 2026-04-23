@@ -9,7 +9,7 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,c,cpp,java,python,sqlserver,sql,ionic&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,c,cpp,java,python,mysql,sqlserver,ionic&theme=dark" />
 </p>
 
 ---
