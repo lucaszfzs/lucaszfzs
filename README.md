@@ -18,6 +18,7 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
   <img alt="C++" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg" />
   <img alt="Java" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg" />
   <img alt="Python" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" />
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img alt="SQL Server" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg" />
   <img alt="Ionic" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Ionic.svg" />
 </p>
