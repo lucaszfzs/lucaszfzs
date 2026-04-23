@@ -22,10 +22,8 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" alt="Ionic" title="Ionic" />
 </p>
 
-
 ---
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
