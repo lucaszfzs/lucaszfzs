@@ -6,14 +6,9 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-ferreira-2b02a6187/">
-    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="mailto:lucaszfzs@gmail.com">
-    <img alt="E-mail" title="Entre em contato por e-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/lucaszfzs">
-    <img alt="GitHub" title="Meu GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a><a href="mailto:lucaszfzs@gmail.com">
+    <img alt="E-mail" title="Entre em contato por e-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://github.com/lucaszfzs">
+    <img alt="GitHub" title="Meu GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
