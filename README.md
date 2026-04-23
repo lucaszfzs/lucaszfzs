@@ -14,14 +14,13 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
   <img alt="Javascript" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" />
   <img alt="Typescript" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" />
   <img alt="Angular" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg" />
+  <img alt="Bootstrap" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg" />
   <img alt="C++" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg" />
   <img alt="Java" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg" />
   <img alt="Python" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" />
-  <img alt="MySQL" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" />
   <img alt="SQL Server" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg" />
   <img alt="Ionic" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Ionic.svg" />
 </p>
----
 
 <br/>
 
