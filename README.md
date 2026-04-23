@@ -9,9 +9,18 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,c,cpp,java,python,mysql,sqlserver,ionic&theme=dark" />
+  <img alt="HTML" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" />
+  <img alt="CSS" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" />
+  <img alt="Javascript" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" />
+  <img alt="Typescript" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" />
+  <img alt="Angular" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg" />
+  <img alt="C++" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg" />
+  <img alt="Java" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg" />
+  <img alt="Python" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" />
+  <img alt="MySQL" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" />
+  <img alt="SQL Server" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg" />
+  <img alt="Ionic" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Ionic.svg" />
 </p>
-
 ---
 
 <br/>
