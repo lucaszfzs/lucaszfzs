@@ -15,8 +15,7 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
   <img alt="Typescript" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" />
   <img alt="Angular" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg" />
   <img alt="Bootstrap" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg" />
-  <img alt="C++" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg" />
-  <img alt="Java" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img alt="C++" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg" /> <img alt="Java" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img alt="Python" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" />
   <img alt="SQL" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img alt="SQL Server" height="48" width="48" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg" />
