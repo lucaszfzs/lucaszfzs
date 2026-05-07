@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lucas Ferreira
+# 👨🏻‍💻 Lucas Ferreira
 
 **`Estudante de Ciência da Computação`**
 
