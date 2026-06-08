@@ -8,7 +8,7 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
 
 ### 🤖 Linguagens e Tecnologias
 
-<<img 
+<img 
     align="left" 
     alt="HTML" 
     title="HTML"
@@ -16,7 +16,7 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<<img 
+<img 
     align="left" 
     alt="CSS" 
     title="CSS"
@@ -24,7 +24,7 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<<img 
+<img 
     align="left" 
     alt="CSS" 
     title="CSS"
