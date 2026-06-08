@@ -24,5 +24,5 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
 
 ### 📊 Estatísticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaszfzs)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=lucaszfzs)](https://github.com/lucaszfs/github-readme-stats)
 
