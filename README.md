@@ -126,11 +126,3 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
 />
 
 
-<br>
-<br>
-
-
-### 📊 Estatísticas
-
-(https://github-readme-stats.vercel.app/api?username=lucaszfzs)](https://github.com/lucaszfs/github-readme-stats)
-
