@@ -4,6 +4,8 @@
 
 Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atualmente, moro e estudo em **Belo Horizonte**. Estou cursando **Ciência da Computação**, no **6º período**, pela **Universidade FUMEC**. Sou apaixonado por **tecnologia e inovação**, e busco constantemente aprender coisas novas, desenvolver minhas habilidades e transformar conhecimento em **projetos práticos**. Utilizo meus estudos e projetos como forma de fortalecer minha **base técnica** e construir uma trajetória sólida na área de **tecnologia**.
 
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -121,12 +123,15 @@ Olá, meu nome é **Lucas Ferreira Souza**, sou natural de **Brumadinho** e, atu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
 />
 
+<br>
+<br>
+
 ### 📬 Contato
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:lucaszfzs@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/seuemail%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/seu-perfil/">
+<a href="https://www.linkedin.com/in/lucaszfzs/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
